@@ -1,0 +1,22 @@
+@media (max-width:768px){
+li,p,.badge{
+    font-size: 40px;
+  }
+}
+
+/*@media (min-width:150px){
+li,p,.badge-info{
+    font-size: 100px;
+  }
+}*/
+
+@media  (min-width:768px){
+li,.nav-item,.lead,.badge{
+    font-size: 20px;
+  }
+  img{
+    height: 500px;
+    padding-left: 200px;
+    padding-right: 400px
+  }
+}
